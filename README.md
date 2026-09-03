@@ -18,7 +18,6 @@ The project focuses on **CSA / ITSM / System Administrator-level configuration a
 * UI Policies
 * UI Actions
 * Notifications
-* Scheduled Jobs
 * Basic GlideRecord scripting
 * Form and List Configuration
 * Data Validation
